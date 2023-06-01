@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>33</LINE></MAIN>
+  <ext_int0><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>82</LINE></ext_int0>
+  <ext_int1><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>201</LINE></ext_int1>
+  <ISR_TOV1><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>86</LINE></ISR_TOV1>
+  <SET_LED><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>43</LINE></SET_LED>
+  <SET_BUTTON><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>49</LINE></SET_BUTTON>
+  <SET_TIMER><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>59</LINE></SET_TIMER>
+  <FOREVER><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>78</LINE></FOREVER>
+  <next><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>92</LINE></next>
+  <DELAY_02><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>206</LINE></DELAY_02>
+  <other_pattern><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>122</LINE></other_pattern>
+  <blue_off><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>152</LINE></blue_off>
+  <yellow_off><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>160</LINE></yellow_off>
+  <green_off><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>168</LINE></green_off>
+  <green_on><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>176</LINE></green_on>
+  <yellow_on><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>184</LINE></yellow_on>
+  <blue_on><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>192</LINE></blue_on>
+  <p1><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>135</LINE></p1>
+  <p2><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>143</LINE></p2>
+  <clear><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>127</LINE></clear>
+  <L2><FILE>C:\Users\LENOVO\Desktop\Semester 2\POK\lab8\latihan2.asm</FILE><LINE>210</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
